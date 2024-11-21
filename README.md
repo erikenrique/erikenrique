@@ -17,10 +17,10 @@ Here are some ideas to get you started:
   <img height="350" alt="Erik J Software Engineer" src="https://github.com/user-attachments/assets/4dbcffcb-dddc-4633-a307-46d78add13f3">  
   </a>
 </p>
-<h1 align="center">👋 Hi! I'm Erik, a full-stack dev</h1>
+<h1 align="center">Hi! I'm Erik 👋</h1>
 <ul>
   <li>😄 Pronouns: he/they</li>
-  <li>⚡ Tech stack: MERN + Front-end (HTML5/CSS3/Javascript)</li>
+  <li>⚡ Tech stack: MongoDB, React, Express.js, Node.js + Front-end (HTML5/CSS3/Javascript)</li>
   <li>👀 I'm interested in DJing, all things Nintendo Gamecube, plants</li>
   <li>🌱 I’m currently building an app for automated animated graphics creatives and broadcasters</li>
   <li>📫 Read me on <a href="https://www.linkedin.com/in/erik-j-8a64a6a4/">LinkedIn</a> or <a href="https://x.com/eirikpls">Twitter</a>!</li>
