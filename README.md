@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   <li>😄 Pronouns: he/they</li>
   <li>⚡ Tech stack: MongoDB, React, Express.js, Node.js + Front-end (HTML5/CSS3/Javascript)</li>
   <li>👀 I'm interested in DJing, all things Nintendo Gamecube, plants</li>
-  <li>🌱 I’m currently building an app for automated animated graphics creatives and broadcasters</li>
+  <li>🌱 I’m currently building an app for automated animated graphics for creatives and broadcasters</li>
   <li>📫 Read me on <a href="https://www.linkedin.com/in/erik-j-8a64a6a4/">LinkedIn</a> or <a href="https://x.com/eirikpls">Twitter</a>!</li>
 </ul>
 
