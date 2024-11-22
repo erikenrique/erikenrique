@@ -11,12 +11,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 <p align="center">
   <a target="_blank" href="https://erikjacome.netlify.app/">
   <img height="350" alt="Erik J Software Engineer" src="https://github.com/user-attachments/assets/4dbcffcb-dddc-4633-a307-46d78add13f3">  
   </a>
-</p>
+</p>-->
 <h1 align="center">Hi! I'm Erik 👋</h1>
 <ul>
   <li>😄 Pronouns: he/they</li>
