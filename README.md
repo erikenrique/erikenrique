@@ -17,7 +17,7 @@ Here are some ideas to get you started:
   <img height="350" alt="Erik J Software Engineer" src="https://github.com/user-attachments/assets/4dbcffcb-dddc-4633-a307-46d78add13f3">  
   </a>
 </p>-->
-<h1 align="center">Hi! I'm Erik 👋</h1>
+<h1 align="center">Hi! I'm Erik, nice to meet 😌👋</h1>
 <ul>
   <li>😄 Pronouns: he/they</li>
   <li>⚡ Tech stack: MongoDB, React, Express.js, Node.js + Front-end (HTML5/CSS3/Javascript)</li>
@@ -43,6 +43,20 @@ Here are some ideas to get you started:
 <table bordercolor="#7b31c4">
   <tr>
     <td width="50%" valign="top">
+      <h3 align="center">movietime</h3>
+        <br/>
+        <a target="_blank" href="https://movietime-2mdp.onrender.com/">
+          <img src="https://github.com/user-attachments/assets/70b9365f-1796-434b-aecf-3de6815d2c37" width="100%" alt="Preview of the movietime app"/>
+        </a>
+        <br/>
+        <p align="center">
+          <a href="https://movietime-2mdp.onrender.com/" target="_blank">
+            <img src="https://img.shields.io/badge/Live-rgb(0%2C83%2C43)?style=for-the-badge&logoColor=%23DDE4B7" alt="Live view of movietime"/>
+          </a>  
+      </p>
+        <p><strong>Node, Express, MongoDB, Passport, Bootstrap CSS, and the TMDB API</strong><br>Full-stack app for storing, reviewing, rating, and discussing movies!<br>(Allow for 30s to load)</p>
+    </td>
+    <td width="50%" valign="top">
       <h3 align="center">Level Ground</h3>
         <br/>
         <a target="_blank" href="https://levelground-ej.netlify.app/">
@@ -55,19 +69,6 @@ Here are some ideas to get you started:
           </a>  
       </p>
         <p><strong>JavaScript, CSS3, HTML5</strong><br>Responsive design for Level Ground, a mixed martial arts center</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Boston.com</h3>
-        <br/>
-      <a target="_blank" href="https://stevenrhyse.netlify.app/">
-            <img src="https://erikjacome.netlify.app/images/gallery/thumbs/boston-repro.jpg" width="100%"  alt="Boston.com reproduction preview"/>
-        </a>
-        <p align="center">
-          <a href="https://stevenrhyse.netlify.app/" target="_blank">
-            <img src="https://img.shields.io/badge/Live-rgb(0%2C83%2C43)?style=for-the-badge&logoColor=%23DDE4B7" alt="Live view of Boston.com reproduction"/>
-          </a>  
-        </p>
-        <p><strong>JavaScript, HTML, CSS3</strong><br>Full responsive and pixel-perfect reproduction of the Boston.com homepage</p>
     </td>
   </tr>
 </table>
